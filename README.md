@@ -11,6 +11,8 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Framed](https://framed.wtf/) - Wordle with movie frames
 
+[Heardle](https://www.spotify.com/heardle/?type=auto&message=no-local-storage) - Guess music from intro
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
 [Moviedle](https://moviedle.xyz/) -Wordle but you have to guess Movies
