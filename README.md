@@ -25,6 +25,6 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Dordle](https://dordlegame.io/) -  Wordle with two words to guess instead of just one.
 
-(Globdle)(https://globle-game.com/game) - Wordle with geography-based guessing game where players are tasked with guessing the name of a country.
+[Globdle](https://globle-game.com/game) - Wordle with geography-based guessing game where players are tasked with guessing the name of a country.
 
-(Worldle)(https://worldle.teuteuf.fr/) - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
+[Worldle](https://worldle.teuteuf.fr/) - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
