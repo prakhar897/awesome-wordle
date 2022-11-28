@@ -22,7 +22,7 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Nerdle](https://nerdlegame.com/) - Wordle, but with numbers
 
-[Octordle](https://octordle.com/) - Same as Wordle, but you have to attempt four prompts simultaneously, plus other variants.
+[Octordle](https://octordle.com/) - Same as Wordle but you have to attempt eight prompts simultaneously, plus other variants.
 
 [Pokle](https://poklegame.com/) - Wordle but you have to guess poker board cards
 
