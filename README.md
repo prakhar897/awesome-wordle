@@ -20,3 +20,11 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 [Footballdle](https://footballdle.com/) - Wordle but you have to guess Football players
 
 [Wordle-peaks](https://vegeta897.github.io/wordle-peaks/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. 
+
+[Nerdle](https://nerdlegame.com/) - Wordle, but with numbers
+
+[Dordle](https://dordlegame.io/) -  Wordle with two words to guess instead of just one.
+
+(Globdle)(https://globle-game.com/game) - Wordle with geography-based guessing game where players are tasked with guessing the name of a country.
+
+(Worldle)(https://worldle.teuteuf.fr/) - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
