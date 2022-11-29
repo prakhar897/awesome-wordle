@@ -54,6 +54,8 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [TriviaV](https://triviav.com/) - Wordle but you have to answer 5 questions.
 
+[Tradle](https://oec.world/en/tradle/) - Guess which US State exports these products! 
+
 [Waffle](https://wafflegame.net/) - Wordle but you have to create words horizontally and vertically.
 
 [Wordle](https://www.nytimes.com/games/wordle/index.html) - The OG
