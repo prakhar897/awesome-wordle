@@ -12,7 +12,11 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Dordle](https://dordlegame.io/) -  Wordle with two words to guess instead of just one.
 
+[Factle](https://factle.app/) - Wordle but you have to guess facts.
+
 [Flagle](https://www.flagle.io/) - Guess the flag.
+
+[Flagle-game](https://flagle-game.com/) - Guess the flag2. 
 
 [Footballdle](https://footballdle.com/) - Wordle but you have to guess Football players
 
@@ -20,7 +24,11 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Globdle](https://globle-game.com/game) - Wordle with geography-based guessing game where players are tasked with guessing the name of a country.
 
+[Gordle](https://gordle.herokuapp.com/) - Wordle with Hockey Players.
+
 [GuessTheArt](https://guessthe.art/help) - Given a picture, guess the words used to generate it.
+
+[Hardle](https://hardle.herokuapp.com/) - Wordle but tiles have random colours for hint.
 
 [Heardle](https://www.spotify.com/heardle/?type=auto&message=no-local-storage) - Guess music from intro
 
@@ -39,6 +47,10 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 [Redactle](https://redactle-unlimited.com/) - Wordle but you have to guess the complete wikipedia article.
 
 [Symble](https://www.symble.app/) -  When you guess, you see a sequence of 5 symbols overlaid onto an invisible version of the secret answer, without knowing which symbol means a letter is correctly placed/incorrectly placed in the answer or not in the answer.
+
+[TriviaV](https://triviav.com/) - Wordle but you have to answer 5 questions.
+
+[Waffle](https://wafflegame.net/) - Wordle but you have to create words horizontally and vertically.
 
 [Wordle](https://www.nytimes.com/games/wordle/index.html) - The OG
 
