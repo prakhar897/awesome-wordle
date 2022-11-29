@@ -20,6 +20,8 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Footballdle](https://footballdle.com/) - Wordle but you have to guess Football players
 
+[FourWordGrid](https://fourwordgrid.web.app/#/) - Wordle but words form both horizontally and vertically.
+
 [Framed](https://framed.wtf/) - Wordle with movie frames
 
 [Globdle](https://globle-game.com/game) - Wordle with geography-based guessing game where players are tasked with guessing the name of a country.
@@ -31,6 +33,8 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 [Hardle](https://hardle.herokuapp.com/) - Wordle but tiles have random colours for hint.
 
 [Heardle](https://www.spotify.com/heardle/?type=auto&message=no-local-storage) - Guess music from intro
+
+[JoinedWords](https://jw-daily.web.app/#/) - Guess words based on clues.
 
 [Moviedle](https://moviedle.xyz/) -Wordle but you have to guess Movies
 
