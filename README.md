@@ -6,15 +6,21 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
+[Cemantle](https://cemantle.certitudes.org/) - Wordle but you're given temperature of closeness to the chosen word.
+
 [Diffudle](http://diffudle.com/) - A Mix of Wordle, Wheel Of Fortune and Stable Diffusion. Users are given an AI generated image by the "hidden" prompt. They have to try to guess the prompt from the image.
 
 [Dordle](https://dordlegame.io/) -  Wordle with two words to guess instead of just one.
+
+[Flagle](https://www.flagle.io/) - Guess the flag.
 
 [Footballdle](https://footballdle.com/) - Wordle but you have to guess Football players
 
 [Framed](https://framed.wtf/) - Wordle with movie frames
 
 [Globdle](https://globle-game.com/game) - Wordle with geography-based guessing game where players are tasked with guessing the name of a country.
+
+[GuessTheArt](https://guessthe.art/help) - Given a picture, guess the words used to generate it.
 
 [Heardle](https://www.spotify.com/heardle/?type=auto&message=no-local-storage) - Guess music from intro
 
@@ -24,9 +30,13 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Octordle](https://octordle.com/) - Same as Wordle but you have to attempt eight prompts simultaneously, plus other variants.
 
+[Pedantle](https://cemantle.certitudes.org/pedantle) - Wordle but you have to guess the complete wikipedia article.
+
 [Pokle](https://poklegame.com/) - Wordle but you have to guess poker board cards
 
 [Quordle](https://www.quordle.com/#/) - Same as Wordle, but you have to attempt four prompts simultaneously.
+
+[Redactle](https://redactle-unlimited.com/) - Wordle but you have to guess the complete wikipedia article.
 
 [Symble](https://www.symble.app/) -  When you guess, you see a sequence of 5 symbols overlaid onto an invisible version of the secret answer, without knowing which symbol means a letter is correctly placed/incorrectly placed in the answer or not in the answer.
 
