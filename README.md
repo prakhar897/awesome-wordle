@@ -28,6 +28,8 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Quordle](https://www.quordle.com/#/) - Same as Wordle, but you have to attempt four prompts simultaneously.
 
+[Symble](https://www.symble.app/) -  When you guess, you see a sequence of 5 symbols overlaid onto an invisible version of the secret answer, without knowing which symbol means a letter is correctly placed/incorrectly placed in the answer or not in the answer.
+
 [Wordle](https://www.nytimes.com/games/wordle/index.html) - The OG
 
 [Wordle-peaks](https://vegeta897.github.io/wordle-peaks/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. 
