@@ -6,6 +6,10 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
+[Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
+
+[Angle](https://angle.wtf/) - Estimate angle in degrees
+
 [Cemantle](https://cemantle.certitudes.org/) - Wordle but you're given temperature of closeness to the chosen word.
 
 [Diffudle](http://diffudle.com/) - A Mix of Wordle, Wheel Of Fortune and Stable Diffusion. Users are given an AI generated image by the "hidden" prompt. They have to try to guess the prompt from the image.
@@ -22,9 +26,13 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [FourWordGrid](https://fourwordgrid.web.app/#/) - Wordle but words form both horizontally and vertically.
 
-[Framed](https://framed.wtf/) - Wordle with movie frames
+[Framed](https://framed.wtf/) - Wordle with movie frames 
 
-[Globdle](https://globle-game.com/game) - Wordle with geography-based guessing game where players are tasked with guessing the name of a country.
+[Geodle](https://geodle.me/) - Wordle with countries
+
+[GeoQuest](https://geoquest.wout.space/) - Find countries on a map
+
+[Globle](https://globle-game.com/game) - Wordle with geography-based guessing game where players are tasked with guessing the name of a country.
 
 [Gordle](https://gordle.herokuapp.com/) - Wordle with Hockey Players.
 
@@ -44,11 +52,19 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Pedantle](https://cemantle.certitudes.org/pedantle) - Wordle but you have to guess the complete wikipedia article.
 
+[Pimantle](https://semantle.pimanrul.es/) - Semantle/Cemantle but with a 2D map of word closeness
+
+[PopCultured](https://histordle.com/popcultured/) - Guess the year books/movies/songs were released
+
 [Pokle](https://poklegame.com/) - Wordle but you have to guess poker board cards
 
 [Quordle](https://www.quordle.com/#/) - Same as Wordle, but you have to attempt four prompts simultaneously.
 
 [Redactle](https://redactle-unlimited.com/) - Wordle but you have to guess the complete wikipedia article.
+
+[Semantle]([https://cemantle.certitudes.org/](https://semantle.com/)) - Wordle but you're given temperature of closeness to the chosen word.
+
+[Squareword](https://squareword.org/) - Wordle but words form both horizontally and vertically.
 
 [Symble](https://www.symble.app/) -  When you guess, you see a sequence of 5 symbols overlaid onto an invisible version of the secret answer, without knowing which symbol means a letter is correctly placed/incorrectly placed in the answer or not in the answer.
 
@@ -63,3 +79,5 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 [Wordle-peaks](https://vegeta897.github.io/wordle-peaks/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 [Worldle](https://worldle.teuteuf.fr/) - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
+
+[Yeardle](https://histordle.com/yeardle/) - Guess the year some historic events happened
