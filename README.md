@@ -3,6 +3,7 @@
 # awesome-wordle
 A crowd-sourced and publicly curated list of wordle like games. Feel free to contribute.
 
+[64ordle](https://64ordle.au/?mode=daily) - Wordle with 64 words and 70 guesses.
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
