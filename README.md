@@ -11,11 +11,29 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Angle](https://angle.wtf/) - Estimate angle in degrees
 
+[Bardle](https://shakespearegeek.github.io/bardle/) - Wordle with Shakespeare Quotes.
+
+[Brdl](https://brdl.alex.gd/) - Guess daily bird banding code
+
+[Canukle](https://www.canucklegame.ca/) - Wordle with Canadian words.
+
 [Cemantle](https://cemantle.certitudes.org/) - Wordle but you're given temperature of closeness to the chosen word.
+
+[Chessle](https://jackli.gg/chessle/) - Wordle with Chess pieces.
+
+[Colordle](https://colordle.com/) - Wordle but you have to guess the color hex value.
 
 [Diffudle](http://diffudle.com/) - A Mix of Wordle, Wheel Of Fortune and Stable Diffusion. Users are given an AI generated image by the "hidden" prompt. They have to try to guess the prompt from the image.
 
+[Doggle](https://doggle.app/) - Guess breeds of mix breed dogs.
+
+[DontWordle](https://dontwordle.com/) - A complete opposite of Wordle.
+
 [Dordle](https://dordlegame.io/) -  Wordle with two words to guess instead of just one.
+
+[Duotrigordle](https://duotrigordle.com/#) - Wordle but you have to guess 32 words in 37 tries.
+
+[EvilWordle](https://swag.github.io/evil-wordle/) - Wordle but system works against you.
 
 [Factle](https://factle.app/) - Wordle but you have to guess facts.
 
@@ -45,6 +63,14 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [JoinedWords](https://jw-daily.web.app/#/) - Guess words based on clues.
 
+[Kilorlde](https://jonesnxt.github.io/kilordle/) - Wordle but you have to guess 1000 words in 1005 tries.
+
+[Letterle](https://edjefferson.com/letterle/) - Wordle but you have to guess 1 letter.
+
+[Lewdle](https://www.lewdlegame.com/) - Wordle with Bad words.
+
+[Mathler](https://www.mathler.com/) - Wordle but you have to guess Math equations.
+
 [Moviedle](https://moviedle.xyz/) -Wordle but you have to guess Movies
 
 [Nerdle](https://nerdlegame.com/) - Wordle, but with numbers
@@ -55,6 +81,8 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Pimantle](https://semantle.pimanrul.es/) - Semantle/Cemantle but with a 2D map of word closeness
 
+[Poetle](https://poeltl.dunk.town/) - Wordle but you have to guess NBA players.
+
 [PopCultured](https://histordle.com/popcultured/) - Guess the year books/movies/songs were released
 
 [Pokle](https://poklegame.com/) - Wordle but you have to guess poker board cards
@@ -62,6 +90,8 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 [Quordle](https://www.quordle.com/#/) - Same as Wordle, but you have to attempt four prompts simultaneously.
 
 [Redactle](https://redactle-unlimited.com/) - Wordle but you have to guess the complete wikipedia article.
+
+[Sedecordle](https://www.sedecordle.com/) - Wordle but you have to simultaneously guess 16 words in 21 tries.
 
 [Semantle]([https://cemantle.certitudes.org/](https://semantle.com/)) - Wordle but you're given temperature of closeness to the chosen word.
 
@@ -74,6 +104,8 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 [Tradle](https://oec.world/en/tradle/) - Guess which US State exports these products! 
 
 [Waffle](https://wafflegame.net/) - Wordle but you have to create words horizontally and vertically.
+
+[Who Are Ya](https://playfootball.games/who-are-ya/big-5) - Guess the football player from stats.
 
 [Wordle](https://www.nytimes.com/games/wordle/index.html) - The OG
 
