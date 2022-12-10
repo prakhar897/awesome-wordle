@@ -1,7 +1,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # awesome-wordle
-A crowd-sourced and publicly curated list of wordle like games. Feel free to contribute.
+Hi, I'm the creator of [Diffudle](http://diffudle.com/). I've crowd sourced this list of all wordlesque games I could find. Feel free to contribute. 
 
 [64ordle](https://64ordle.au/?mode=daily) - Wordle with 64 words and 70 guesses.
 
@@ -93,7 +93,7 @@ A crowd-sourced and publicly curated list of wordle like games. Feel free to con
 
 [Sedecordle](https://www.sedecordle.com/) - Wordle but you have to simultaneously guess 16 words in 21 tries.
 
-[Semantle]([https://cemantle.certitudes.org/](https://semantle.com/)) - Wordle but you're given temperature of closeness to the chosen word.
+[Semantle](https://semantle.com/) - Wordle but you're given temperature of closeness to the chosen word.
 
 [Squareword](https://squareword.org/) - Wordle but words form both horizontally and vertically.
 
