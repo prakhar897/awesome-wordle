@@ -1,7 +1,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # awesome-wordle
-Hi, I'm the creator of [Diffudle](http://diffudle.com/). I've crowd sourced this list of all wordlesque games I could find. Feel free to contribute. 
+Hi, I'm the creator of [Diffudle](http://diffudle.com/). I'm curating a list of all wordle type games. Feel free to contribute. 
 
 [64ordle](https://64ordle.au/?mode=daily) - Wordle with 64 words and 70 guesses.
 
