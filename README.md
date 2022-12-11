@@ -5,15 +5,25 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [64ordle](https://64ordle.au/?mode=daily) - Wordle with 64 words and 70 guesses.
 
+[Absurdle](https://qntm.org/files/absurdle/absurdle.html) - Wordle but system is actively trying to avoid giving you the answer.
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
+[Airportle](https://airportle.scottscheapflights.com/) - Wordle with flight codes.
+
 [Angle](https://angle.wtf/) - Estimate angle in degrees
+
+[AntiWordle](https://www.antiwordle.com/) - Wordle but system throws difficulties on you.
 
 [Bardle](https://shakespearegeek.github.io/bardle/) - Wordle with Shakespeare Quotes.
 
-[Brdl](https://brdl.alex.gd/) - Guess daily bird banding code
+[Bookli](https://bookli.co.uk/) - Guess Book lines.
+
+[Brdl](https://brdl.alex.gd/) - Guess daily bird banding code.
+
+[Byrdle](https://www.byrdle.net/) - Wordle for choral music.
 
 [Canukle](https://www.canucklegame.ca/) - Wordle with Canadian words.
 
@@ -22,6 +32,8 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 [Chessle](https://jackli.gg/chessle/) - Wordle with Chess pieces.
 
 [Colordle](https://colordle.com/) - Wordle but you have to guess the color hex value.
+
+[Crosswordle](https://crosswordle.vercel.app/?daily=1) - Wordle but idk, couldn't understand.
 
 [Diffudle](http://diffudle.com/) - A Mix of Wordle, Wheel Of Fortune and Stable Diffusion. Users are given an AI generated image by the "hidden" prompt. They have to try to guess the prompt from the image.
 
@@ -35,11 +47,15 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [EvilWordle](https://swag.github.io/evil-wordle/) - Wordle but system works against you.
 
+[EvilWurldle](https://areiche2.github.io/evil-wurdle/) - Wordle but system works against you. Part 2
+
 [Factle](https://factle.app/) - Wordle but you have to guess facts.
 
 [Flagle](https://www.flagle.io/) - Guess the flag.
 
 [Flagle-game](https://flagle-game.com/) - Guess the flag2. 
+
+[Foodle](https://food-le.co/) - Wordle for foods.
 
 [Footballdle](https://footballdle.com/) - Wordle but you have to guess Football players
 
@@ -73,9 +89,17 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [Moviedle](https://moviedle.xyz/) -Wordle but you have to guess Movies
 
+[Movlie](https://movlie.org/) - Guess movie from screenshot
+
 [Nerdle](https://nerdlegame.com/) - Wordle, but with numbers
 
 [Octordle](https://octordle.com/) - Same as Wordle but you have to attempt eight prompts simultaneously, plus other variants.
+
+[Optimle](https://optimle.meow.garden/) - Optimized wordle.
+
+[Pawrdle](https://www.pawrdle.com/) - Pet themed wordle.
+
+[Passwordle](https://passwordle.com/) - Wordle for cracking passwords.
 
 [Pedantle](https://cemantle.certitudes.org/pedantle) - Wordle but you have to guess the complete wikipedia article.
 
@@ -87,9 +111,19 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [Pokle](https://poklegame.com/) - Wordle but you have to guess poker board cards
 
+[Quintessential](https://quintessential.fun/) - Wordle but you can only swap words.
+
 [Quordle](https://www.quordle.com/#/) - Same as Wordle, but you have to attempt four prompts simultaneously.
 
+[QWRTL](https://limpet.net/qwrtl/) - Wordle but Letter E is banished.
+
 [Redactle](https://redactle-unlimited.com/) - Wordle but you have to guess the complete wikipedia article.
+
+[Reversle](https://reversle.net/) - Wordle but the answer is already given.
+
+[Revertle](https://www.puppetsquid.com/revertle/) - Wordle but you're given a word and you've to make words without the given word's letters.
+
+[Scholardle](https://www.scholardle.com/) - Wordle for academic words.
 
 [Sedecordle](https://www.sedecordle.com/) - Wordle but you have to simultaneously guess 16 words in 21 tries.
 
@@ -97,20 +131,38 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [Squareword](https://squareword.org/) - Wordle but words form both horizontally and vertically.
 
+[Squardle](https://fubargames.se/squardle/) - Wordle on a 5X5 grid.
+
+[Subwaydle](https://www.subwaydle.com/) - Wordle with Subway trip.
+
+[Survivle](https://lazyguyy.github.io/survivle/) - Wordle on hard mode. All information gather must be used.
+
+[Sweardle](https://sweardle.com/) - Wordle with bad words.
+
 [Symble](https://www.symble.app/) -  When you guess, you see a sequence of 5 symbols overlaid onto an invisible version of the secret answer, without knowing which symbol means a letter is correctly placed/incorrectly placed in the answer or not in the answer.
 
 [TriviaV](https://triviav.com/) - Wordle but you have to answer 5 questions.
 
 [Tradle](https://oec.world/en/tradle/) - Guess which US State exports these products! 
 
+[Tusmo](https://www.tusmo.xyz/) - idk i dont speak bonjour.
+
 [Waffle](https://wafflegame.net/) - Wordle but you have to create words horizontally and vertically.
 
+[Weaver](https://wordwormdormdork.com/) - Join connection between two words.
+
+[Weredle](https://weredle.netlify.app/) - Wordle but system might lie to you.
+
 [Who Are Ya](https://playfootball.games/who-are-ya/big-5) - Guess the football player from stats.
+
+[Wordawazzle](https://wordawazzle.com.au/) - Wordle with Australian Slang
 
 [Wordle](https://www.nytimes.com/games/wordle/index.html) - The OG
 
 [Wordle-peaks](https://vegeta897.github.io/wordle-peaks/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 [Worldle](https://worldle.teuteuf.fr/) - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
+
+[Wor-Wordle-dle](https://wor-wordle-dle.web.app/#/) - Multi Layered Wordle.
 
 [Yeardle](https://histordle.com/yeardle/) - Guess the year some historic events happened
