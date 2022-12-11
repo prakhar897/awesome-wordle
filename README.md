@@ -7,6 +7,8 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [Absurdle](https://qntm.org/files/absurdle/absurdle.html) - Wordle but system is actively trying to avoid giving you the answer.
 
+[Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
+
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
@@ -44,6 +46,8 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 [Dordle](https://dordlegame.io/) -  Wordle with two words to guess instead of just one.
 
 [Duotrigordle](https://duotrigordle.com/#) - Wordle but you have to guess 32 words in 37 tries.
+
+[Equatle](http://www.equatle.com/) - Wordle but you have to guess math equations.
 
 [EvilWordle](https://swag.github.io/evil-wordle/) - Wordle but system works against you.
 
@@ -107,9 +111,13 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [Poetle](https://poeltl.dunk.town/) - Wordle but you have to guess NBA players.
 
+[Polydle](https://polydle.github.io/?) - Wordle with customizable no of words.
+
 [PopCultured](https://histordle.com/popcultured/) - Guess the year books/movies/songs were released
 
 [Pokle](https://poklegame.com/) - Wordle but you have to guess poker board cards
+
+[Primel](https://converged.yt/primel/) - Wordle with Prime Numbers.
 
 [Quintessential](https://quintessential.fun/) - Wordle but you can only swap words.
 
