@@ -3,7 +3,117 @@
 # awesome-wordle
 Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
-[64ordle](https://64ordle.au/?mode=daily) - Wordle with 64 words and 70 guesses.
+# Original
+* [Wordle](https://www.nytimes.com/games/wordle/index.html) - Guess a five-letter word in six guesses. Each guess must be real words.
+
+# Clones
+* [Hello Wordl](https://hellowordl.net/) - Customizable. Can change difficulty mode and number of letters.
+* [WordGuessr](https://engaging-data.com/wordguessr-wordle/) - Options for different word lengths.
+* [Wordle Archive](https://www.devangthakkar.com/wordle_archive/?222) - Play previous Wordle days.
+* [Wordle Unlimited](https://www.wordleunlimited.com/) - Random word, an expanded dictionary.
+
+# Multiplayer
+* [Squabble](https://squabble.me/) - Battle Royale Wordle.
+* [Wordhoot](https://wordhoot.com/) - Create multiplayer Wordle rooms.
+* [Wordle Off](http://wordle.jonyork.net/) - 1v1 Wordle.
+* [Wordle with Friends](https://mottaquikarim.github.io/wordle_with_friends/) - Make your own Wordle puzzle and create a link.
+
+# Multiword and Multigrid
+* [64ordle](https://64ordle.au/?mode=daily) - Wordle with 64 words and 70 guesses.
+* [Crosswordle](https://crosswordle.serializer.ca/) - Wordle on two intersecting words.
+* [Dordle](https://zaratustra.itch.io/dordle) - Wordle on two different grids at once.
+* [Kilordle](https://jonesnxt.github.io/kilordle/) - Wordle on 1000 different grids at once.
+* [Octordle](https://octordle.com/) - Wordle on eight different grids at once.
+* [Polydle](https://polydle.github.io/) - Choose how many Wordle grids to solve at once (maximum 2315).
+* [Quordle](https://www.quordle.com/) - Wordle on four different grids at once.
+* [Sedecordle](http://sedecordle.com/?mode=daily) - Wordle on sixteen different grids at once.
+* [Thirtle](https://doodle-pile.gitlab.io/thirtle/) - Solve thirty consecutive Wordle grids as quickly as possible.
+* [Tridle](https://engaging-data.com/tridle/) - Wordle on three different grids at once.
+
+# Wordle with twists
+*  [Symble](https://www.symble.app/) - Wordle, but hints are given as a random 3 symbols and it is up to the player to determine what the symbols mean. Important to note: symbols clue at the answer letter in that position, not the guessed letter.
+* [Absurdle](https://qntm.org/files/absurdle/absurdle.html), [Evil Wordle](https://swag.github.io/evil-wordle/) - Wordle rules, but the answer is adversarial. Infinite guesses.
+* [Absurvivle](https://www.timblack.net/absurvivle/) - Absurdle but the goal is to survive as long as possible.
+* [Fibble](https://fibble.xyz/) - Wordle, but the clue contains one lie in every row.
+* [QWRTL](https://limpet.net/qwrtl/) - Wordle without the letter E.
+* [Reversle](http://reversle.net) - Given an answer and grid of clues, find a sequence of words that matches the clues as quickly as possible.
+* [Scrabwordle](https://engaging-data.com/scrabwordle/) - Wordle, but your word must also match a given Scrabble score.
+* [Sixdle](https://word.rodeo/Sixdle/) - Wordle with six-letter words and answers.
+* [Squardle](https://fubargames.se/squardle/) - Wordle in two dimensions across a 5x5 grid with six different words.
+* [Survivle](https://lazyguyy.github.io/survivle/) - Normal Wordle rules but you must use the information you have and the goal is to play as many rounds as possible without finding the answer.
+* [Waffle](https://wafflegame.net/) - Squaredle grid (5x5 grid with six words) with shuffled letters and 15 swaps to find the correct grid.
+* [Warmle](https://warmle.org/) - Wordle, but a yellow clue lets you know if are within 3 letters alphabetically for that position.
+* [Wordle Peaks](https://vegeta897.github.io/wordle-peaks/) - Wordle, but each position is hinted based on the alphabetical direction of the answer's letter in that position.
+* [xordle](https://xordle.xyz/) - Wordle with two disjoint answers but only one board. Guess both words correctly to win.
+
+
+# Language/Regional Variants
+* [IPAdle](https://manishearth.github.io/ipadle/#) - Wordle with the International Phonetic Alphabet
+* [Kerdle](https://kerdle.vercel.app/) - Cornish Wordle
+* [Le Mot](https://wordle.louan.me/) - French 
+* [SUTOM](https://sutom.nocle.fr/) - French. Words are 6-9 letters long, and the first letter is given.
+* [Termo](https://term.ooo/) - Portugese
+* [Verba](https://sebastianomorando.github.io/wordle-it/) - Italian 
+* [WORDLE PÅ NORSK](https://wordle.uber.space/) - Norwegian
+* [Wordawazzle](https://wordawazzle.com.au/) - Aussie Slang
+* [Wordle (ES)](https://wordle.danielfrg.com/) - Spanish
+* [Wordle Cymraeg](https://www.rhwyd.org/wordle/) - Welsh Wordle
+* [Wordle by nakosung](https://nakosung.github.io/wordle/) - Korean Wordle
+* [meduyeket.net](https://meduyeket.net/) - Hebrew
+* [musi nimi](https://tilde.town/~dustin/wordle-toki/) - Toki Pona Wordle
+* [ordlig.se](https://ordlig.se/) - Swedish
+* [wordle-spielen.de](https://wordle.uber.space/) - German
+
+# Math Variants
+* [Mathler](https://www.mathler.com/) - Guess a six-character expression that equals a given number.
+* [Nerdle](https://nerdlegame.com/) - Guess an eight-character equation.
+* [Primel](https://converged.yt/primel/) - Guess a five-digit prime in six guesses. Each guess must be prime.
+
+# Wordle for X
+* [A Greener Wordle](https://agreenerworldle.org/) - Answer will be related to climate change.
+* [Byrdle](https://rbrignall.github.io/byrdle/) - Answer will be related to choral music. 
+* [Jordle](https://www.jellyneo.net/jordle/) - Answer will be Neopets-related.
+* [Moxle](https://www.moxfield.com/moxle) - Answer will be a 5-letter Magic: the Gathering card name.
+* [Queerdle](https://queerdle.com/) - Answer will be queer related words of various lengths.
+* [Sweardle](https://sweardle.com/) - Answer will be a four-letter swear word. Guess it in four guesses.
+* [Taylordle](https://www.taylordle.com/) - Answer will be related to Taylor Swift.
+* [Wordle-BTS](https://bts-wordle.vercel.app/) - Answer will be related to BTS.
+* [YGODLE](https://ygo-wordle.vercel.app/) - Answer will be Yu-Gi-Oh! related.
+* [Oundle](https://oundle.andrewchapman.info/) - Guesses and answers must be a British place name.
+* [Lewdle](https://www.lewdlegame.com/) - Guesses and answers must be in the lewd word dictionary.
+* [Paimordle](https://paimordle.vercel.app/) - Guesses and answers must be characters, items, and concepts relating to Genshin Impact.
+* [BRDL](https://brdl.alex.gd/) - Guesses and answers must be a 4-letter bird banding code.
+* [Enchant Worldle](https://www.nytimes.com/games/wordle/index.html) - Magic: the Gathering. Guess a card in 20 tries, recieving hints on card properties.
+* [Commander Codex](https://commandercodex.com/) - Magic: the Gathering. Guess a commander and receive hints based on card properties.
+* [Squirdle](https://squirdle.fireblend.com/) - Pokémon. Guess a Pokémon and receive hints based on Pokémon properties.
+* [Lordle of the Rings](https://digitaltolkien.github.io/vue-wordle/) - Lord of the Rings. Uses only five-letter words (including names) in the main text of Lord of the Rings
+* [Swordle](https://wordle.starwars.guide/) - Star Wars. Guess 5-character Star Wars words including numbers and dashes.
+
+
+# Geography Wordle
+* [Airportle (Avi Bagla)](https://airportle.glitch.me/), [Airportle (Scott's Cheap Flights)](https://airportle.scottscheapflights.com/) - Guesses and answers must be three-letter airport codes.
+* [Subwaydle](https://www.subwaydle.com/) - Guess a valid NYC subway trip from point A to point B.
+* [Worldle](https://worldle.teuteuf.fr/) - Guess a country by its outline. Hints are distance and direction between the guessed country and the answer country.
+* [Globle](https://globle-game.com/) - Guess a country based on color-coded hints indicating distance.
+* [Tradle](https://oec.world/en/tradle/) - Guess a country based on its export profile.
+* [Flagdle](https://www.flagdle.org/) - Guess a country based on its flag. Hints are a similarity score between your guess's flag and the actual flag.
+* [Flagle](https://www.flagle.io/) - Guess a country based a 2x3 grid of a flag that reveals one square with each guess.
+
+# Joke Variants
+* [Letterle](https://edjefferson.com/letterle/) - Guess one letter in 26 guesses.
+* [Windle](https://www.dialup.net/windle/) - Wordle built for Windows 3.1.
+* [Passwordle](https://rsk0315.github.io/playground/passwordle.html) - Receive hints based on the difference between SHA-256 hash of your guess and the hash of the answer.
+
+# Other Variants
+* [Semantle](https://semantle.novalis.org/) - Guess any word or phrase. Hints are the Word2Vec semantic distance between guess and answer.
+* [Scidle](http://scidle.co.uk/) - Like wordle, but you create a word or phrase using five consecutive elements from the periodic table.
+* [Chessle](https://jackli.gg/chessle/) - Like Wordle, but for Chess openings.
+* [Fusekle](https://yewang.github.io/fusekle/) - Like Wordle, but for Go openings (fuseki).
+* [Pictle](https://pictle.web.app/) - Using Wordle rules, use guesses to match a picture inspired by the Wordle puzzle from 7 days ago.
+* [Heardle](https://www.heardle.app/) - Guess a song by hearing increasingly long opening snippets. Features design language from Wordle.
+* [Squaredle](https://squaredle.app/) - Boggle-like word finding game. Features design language from Wordle.
+
+# Unsorted
 
 [Absurdle](https://qntm.org/files/absurdle/absurdle.html) - Wordle but system is actively trying to avoid giving you the answer.
 
