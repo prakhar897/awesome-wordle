@@ -15,6 +15,8 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [AntiWordle](https://www.antiwordle.com/) - Wordle but system throws difficulties on you.
 
+[ArWordle](https://arwordle.netlify.app/) - Arabic Wordle
+
 [Bardle](https://shakespearegeek.github.io/bardle/) - Wordle with Shakespeare Quotes.
 
 [Bookli](https://bookli.co.uk/) - Guess Book lines.
