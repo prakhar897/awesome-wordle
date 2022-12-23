@@ -87,6 +87,8 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [Lewdle](https://www.lewdlegame.com/) - Wordle with Bad words.
 
+[Lexli](https://lexli.gr/) - Wordle in Greek
+
 [Mathler](https://www.mathler.com/) - Wordle but you have to guess Math equations.
 
 [Moviedle](https://moviedle.xyz/) -Wordle but you have to guess Movies
@@ -151,6 +153,8 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [Tradle](https://oec.world/en/tradle/) - Guess which US State exports these products! 
 
+[Turdle](https://turdle.xyz/) -  a Wordle clone about guessing the correct sequence of animated frames to make a turtle jump!
+
 [Tusmo](https://www.tusmo.xyz/) - idk i dont speak bonjour.
 
 [Waffle](https://wafflegame.net/) - Wordle but you have to create words horizontally and vertically.
@@ -162,6 +166,8 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 [Who Are Ya](https://playfootball.games/who-are-ya/big-5) - Guess the football player from stats.
 
 [Wordawazzle](https://wordawazzle.com.au/) - Wordle with Australian Slang
+
+[Wordiply](https://www.wordiply.com/) - You have five goes to get the longest word that includes the starter word.
 
 [Wordle](https://www.nytimes.com/games/wordle/index.html) - The OG
 
