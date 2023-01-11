@@ -69,6 +69,8 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [GeoQuest](https://geoquest.wout.space/) - Find countries on a map
 
+[GramJam](https://gramjam.app/) - 5x5 swap Wordle
+
 [Globle](https://globle-game.com/game) - Wordle with geography-based guessing game where players are tasked with guessing the name of a country.
 
 [Gordle](https://gordle.herokuapp.com/) - Wordle with Hockey Players.
