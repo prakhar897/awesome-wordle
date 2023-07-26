@@ -1,7 +1,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # awesome-wordle
-Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of all wordle like games. Feel free to play and contribute!!
+I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
 
